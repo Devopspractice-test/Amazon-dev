@@ -1,6 +1,5 @@
-hello everyone 
+Hello Every one
 
-Git commands are very useful...
+Good morning
 
-we have to learn the git commands
-
+i am updating this file
